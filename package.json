@@ -1,0 +1,29 @@
+{
+  "name": "coding-challenges-repository",
+  "version": "1.0.0",
+  "description": "Coding Repository with all my challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronealdama/Coding-Challenges-Repository.git"
+  },
+  "keywords": [
+    "npm",
+    "install"
+  ],
+  "author": "Aaron Ealdama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronealdama/Coding-Challenges-Repository/issues"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "homepage": "https://github.com/aaronealdama/Coding-Challenges-Repository#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
